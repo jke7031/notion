@@ -1,0 +1,7 @@
+<script><!--
+var currency_rate_list=new Array("KRW","USD","CAD","KRW");
+var currency_template="<a href=\"$link\">The $from_abbrev is worth <b>$rate</b> $to_abbrevs </a><br>";
+var currency_round=true;
+//--></script>
+<script src="https://coinmill.com/frame.js"></script>
+<br><small>Currency data courtesy <a href="https://coinmill.com/">coinmill.com</a></small>
